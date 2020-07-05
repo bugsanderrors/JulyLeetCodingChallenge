@@ -26,7 +26,7 @@
 class Solution:
     def hammingDistance(self, x: int, y: int) -> int:
 
-        #The XOR of two gives the number of position where bits are different
+        #The XOR of two numbers gives the number of position where bits are different
         
         
         # 4 ->   1 0 0
